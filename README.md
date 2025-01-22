@@ -16,9 +16,10 @@ This repository contains a Power BI analysis of British Airways flight performan
 
 
 ## Data source
-The data used for this project was gotten from 
+The data used for this project are 4 different excel csv files
 
 ## Objectives
+The objective of this data is to answer different questions
 
 ## Skills demonstrated
 
