@@ -58,7 +58,7 @@ This is a one page report dashboard. Alongside visuals of the SQL queries
 
 **Dashboard**
 
-The dashboard has 4 KPIs with growth percentages, 5 visuals of a line,bar,pie,map charts and 2 slicers.
+The dashboard has 4 KPIs with growth percentages, 5 visuals of a line, bar, pie, map charts and 2 slicers.
 
 ![](img/BA_dashboard.png)
 
@@ -145,5 +145,5 @@ Airbus has a manufacturer has 3 aircrafts,Embraer has 2 aircrafts,sukhoi has 1 a
 
 - To address the issue of high flight cancellation in April particularly in London, analyse the root cause of cancellation by examining issues like maintenance schedule and aircraft availability to alleviate the causes of cancellations. Also, schedule preventive maintenance of aircrafts in months that are known to have low demand in other to minimize disruptions during peak travel periods.
 
-- 
+
 
