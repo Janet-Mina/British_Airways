@@ -127,7 +127,7 @@ Airbus has a manufacturer has 3 aircrafts,Embraer has 2 aircrafts,sukhoi has 1 a
 
 - British airways tend to use aircraft  from manufacturers known for their superior fuel-efficiency more often. From the 5 manufacturers only 3 manufacturers(Airbus, Boeing and Embraer) were used. Boeing manufacturer has 2 aircraft subtype with low fuel efficiency and was used most frequently for the 6 months period. Despite Mitsubishi manufacturer having the lowest(best) average fuel-efficiency it wasn't used. Maybe because the MJR aircraft by Mitsubishi manufacturer do no correspond with passenger's demand routes or the BA network does not reach any of the 88 routes and this would restrict passenger's access. It could also be that MJR aircraft was not used for the 6 months period or could even be undergoing maintenance during this period.
 
-- The month of April had the most number of cancelled flights of **111** and most of the cancellations occured in London in all the months. March had a total of **61** cancelled flights, january had a total of **56** cancelled flights May, February and June(within 15 days) had a total cancelled flights of **54**, **46** and **30** respectively.
+- The month of April had the most number of cancelled flights of **111** and most of the cancellations occured in London in all the months. March had a total of **61** cancelled flights, january had a total of **56** cancelled flights May, February and June(with 15 days) had a total cancelled flights of **54**, **46** and **30** respectively.
 
 - The top 5 cities passengers travel to the most are **London** with *50,051* passengers, Helsinki with *4,662* passengers, Glasgow with *3,649* passengers, Edinburgh with *3,130* passengers and Aberdeen with *2,867* passengers.
 
@@ -137,5 +137,13 @@ Airbus has a manufacturer has 3 aircrafts,Embraer has 2 aircrafts,sukhoi has 1 a
 
 ---
 ### Recommendations
-- A lower fuel_efficiency value indicates better performance because it shows less fuel is needed to travel a long distance. Therefore, Mitsubishi having the less value fuel_efficiency value of *0.021* is considered to be the best fuel_efficient aircraft and should be used.
+- A lower fuel_efficiency value indicates better performance because it shows less fuel is needed to travel a long distance. Therefore, Mitsubishi having the least average fuel_efficiency value of *0.021* is considered to be the best fuel_efficient aircraft. However, Boeing aircrafts are fuel-efficient and should be used.
+  
+- To improve fuel-efficiency, the use of aircraft from manufacturers with the best fuel-efficiency should be used on high demand routes. Also, investments should be made on newer fuel-efficient aircrafts like Boeing 77W and older less fuel-efficient aircraft like Airbus 332 should be phased out to improve over all fleet fuel-efficiency.
+
+- To improve the baggage revenue for other months and cities, baggage fees should be optimized by offering bundled packages to passengers that includes baggage fees with other services like seat selection and inflight meals. Additionally, implement competitive pricing strategies for flights to these cities to attract more passengers.
+
+- To address the issue of high flight cancellation in April particularly in London, analyse the root cause of cancellation by examining issues like maintenance schedule and aircraft availability to alleviate the causes of cancellations. Also, schedule preventive maintenance of aircrafts in months that are known to have low demand in other to minimize disruptions during peak travel periods.
+
+- 
 
