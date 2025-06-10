@@ -3,7 +3,7 @@
 ---
 ### Table of Contents
 1.  [Overview](#overview)
-2. [Introduction](#introduction)
+2. [Problem Statement](#problem-statement)
 3. [Objectives](#objectives)
 4. [Data source](#data-source)
 5. [Skills Demonstrated](#skills-demonstrated)
@@ -14,11 +14,11 @@
 
 ---
 ### Overview
-This repository contains a Power BI analysis of British Airways flight performance for a duration of six months. The analysis covers key performance indicators (KPIs), flight operations, and financial performance to provide actionable insights.
+The British Airways is located in the United Kingdom, London and is the second largest UK based airline on fleet size(i.e. total number of aircrafts in an airline and total passengers carried). British Airways operates a vast network of flights and connects passengers to their destinations worldwide. This repository contains a Power BI analysis of British Airways flight performance for a duration of six months. The analysis covers key performance indicators (KPIs), flight operations, and financial performance to provide actionable insights.
 
 ---
-### Introduction
-The British Airways is located in the United Kingdom, London and is the second largest UK based airline on fleet size(i.e. total number of aircrafts in an airline and total passengers carried). British Airways operates a vast network of flights and connects passengers to their destinations worldwide. 
+### Problem Statement
+ Created a business intelligence dashboard to evaluate British Airways performance, passenger count, and route profitability.
 
 ---
 ### Objectives
